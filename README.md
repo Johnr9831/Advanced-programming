@@ -4,16 +4,6 @@ A webcam-based prototype that combines hand tracking in Python with a virtual Ru
 
 **Project status:** the main interaction pipeline is implemented in the source, but cube-turn correctness and communication robustness still require fixes. This is a progress prototype, not a complete cube simulator or automatic solver.
 
-## Team
-
-- [Team member 1]
-- [Team member 2]
-- [Team member 3]
-
-Repository: [Insert the project's GitHub URL]
-
-Replace these fields before submission. Credit the original authors of the project; uploading their files does not establish authorship.
-
 ## Project overview
 
 The application has two programs:
