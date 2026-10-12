@@ -1,0 +1,13 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.o
+*.a
+*.so
+*.exe
+cpp_engine/motor_rubik
+cpp_engine/temp_bg.jpg
+cpp_engine/fondo_ar.jpg
+*.rar
